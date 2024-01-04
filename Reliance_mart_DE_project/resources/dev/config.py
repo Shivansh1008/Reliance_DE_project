@@ -6,8 +6,8 @@ salt = "youtube_AesEncryption"
 
 #AWS Access And Secret key
 region_name='Asia Pacific (Mumbai) ap-south-1'
-aws_access_key = "AKIA6I3N3W56GIC72LLW"
-aws_secret_key = "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"
+aws_access_key = ""
+aws_secret_key = ""
 bucket_name = "reliance-mart-de-project"
 s3_customer_datamart_directory = "customer_data_mart"
 s3_sales_datamart_directory = "sales_data_mart"
