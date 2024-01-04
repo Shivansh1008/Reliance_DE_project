@@ -1,0 +1,9 @@
+pycryptodomex
+pycryptodome
+loguru
+boto3
+pyspark
+findspark
+mysql-connector-python
+
+##pip install -r /config/workspace/Reliance_DE_proj/resources/dev/requirements.txt
